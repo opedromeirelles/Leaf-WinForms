@@ -1,6 +1,6 @@
 # Leaf Desktop
 
-**Leaf Desktop** é um módulo do sistema de gestão distribuído Leaf, projetado para gerenciar a produção e vendas de produtos em uma fazenda urbana. A aplicação é desenvolvida com foco em eficiência, produtividade e facilidade de uso, utilizando a tecnologia **Windows Forms (WinForms)** e uma arquitetura **MVC** em **C#**, com conexão ao **SQL Server** para gerenciamento e persistência de dados.
+**Leaf Desktop** é um módulo do sistema de gestão distribuído **Leaf**, projetado para gerenciar a produção e vendas de produtos em uma fazenda urbana. A aplicação é desenvolvida com foco em eficiência, produtividade e facilidade de uso, utilizando a tecnologia **Windows Forms (WinForms)** e uma arquitetura **MVC** em **C#**, com conexão ao **SQL Server** para gerenciamento e persistência de dados.
 
 ## Índice
 
@@ -12,10 +12,10 @@
 
 ## Sobre o Projeto
 
-**Leaf Desktop** é um componente fundamental do sistema Leaf, responsável pela gestão completa da produção e vendas de produtos agrícolas. Foi projetado para facilitar as operações diárias, como o controle de lotes de produção e gerenciamento de estoques, além de processar e registrar vendas.
+**Leaf Desktop** é um componente fundamental do sistema **Leaf**, responsável pela gestão completa da produção e vendas de produtos agrícolas. Foi projetado para facilitar as operações diárias, como o controle de lotes de produção e gerenciamento de estoques, além de processar e registrar vendas.
 
 ### Contexto
-O projeto foi desenvolvido para fazendas urbanas que precisam de uma solução robusta e integrada para otimizar sua produção e processos de venda. A aplicação desktop funciona de forma integrada ao restante do sistema Leaf (web e mobile), proporcionando uma visão abrangente e controle eficiente das operações.
+O projeto foi desenvolvido para fazendas urbanas que precisam de uma solução robusta e integrada para otimizar sua produção e processos de venda. A aplicação desktop funciona de forma integrada ao restante do sistema **Leaf** (web e mobile), proporcionando uma visão abrangente e controle eficiente das operações.
 
 ## Tecnologias Utilizadas
 
@@ -47,4 +47,11 @@ A aplicação utiliza **ADO.NET** para estabelecer a conexão com o **SQL Server
 
 ## Considerações
 
-Leaf é um sistema de gestão distribuído desenvolvido como um projeto acadêmico, com o objetivo de aplicar e consolidar conhecimentos em desenvolvimento web e de software. Este projeto busca simular um ambiente real de trabalho, permitindo a prática de conceitos avançados como arquitetura em camadas, injeção de dependências, controle de versionamento, e metodologias de desenvolvimento em ASP.NET com C#.
+**Leaf** é um sistema de gestão distribuído desenvolvido como um projeto acadêmico, com o objetivo de aplicar e consolidar conhecimentos em desenvolvimento web e de software. Este projeto busca simular um ambiente real de trabalho, permitindo a prática de conceitos avançados como arquitetura em camadas, injeção de dependências, controle de versionamento, e metodologias de desenvolvimento em **ASP.NET** com **C#**.
+
+---
+
+Veja outras partes que complementam este projeto:
+
+- [Leaf Web - Gerenciamento de cadastros e lançamentos de compras](https://github.com/opedromeirelles/Leaf-Web)
+- [Leaf Mobile - Gerenciamento de entregas dos produtos vendidos](https://github.com/opedromeirelles/Leaf-Mobile)
